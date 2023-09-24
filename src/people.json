@@ -1,0 +1,157 @@
+[
+    {
+        "people" : [
+            {
+                "name": "NAME",
+                "age": 0,
+                "gender": "GENDER",
+                "role": "ROLE",
+                "phonenumber": "NUMBER",
+                "email": "EMAIL",
+                "img": "IMG",
+                "id": "ID"
+            },
+            {
+                "name": "NAME",
+                "age": 0,
+                "gender": "GENDER",
+                "role": "ROLE",
+                "phonenumber": "NUMBER",
+                "email": "EMAIL",
+                "img": "IMG",
+                "id": "ID"
+            },
+            {
+                "name": "NAME",
+                "age": 0,
+                "gender": "GENDER",
+                "role": "ROLE",
+                "phonenumber": "NUMBER",
+                "email": "EMAIL",
+                "img": "IMG",
+                "id": "ID"
+            },
+            {
+                "name": "NAME",
+                "age": 0,
+                "gender": "GENDER",
+                "role": "ROLE",
+                "phonenumber": "NUMBER",
+                "email": "EMAIL",
+                "img": "IMG",
+                "id": "ID"
+            },
+            {
+                "name": "NAME",
+                "age": 0,
+                "gender": "GENDER",
+                "role": "ROLE",
+                "phonenumber": "NUMBER",
+                "email": "EMAIL",
+                "img": "IMG",
+                "id": "ID"
+            },
+            {
+                "name": "NAME",
+                "age": 0,
+                "gender": "GENDER",
+                "role": "ROLE",
+                "phonenumber": "NUMBER",
+                "email": "EMAIL",
+                "img": "IMG",
+                "id": "ID"
+            },
+            {
+                "name": "NAME",
+                "age": 0,
+                "gender": "GENDER",
+                "role": "ROLE",
+                "phonenumber": "NUMBER",
+                "email": "EMAIL",
+                "img": "IMG",
+                "id": "ID"
+            },
+            {
+                "name": "NAME",
+                "age": 0,
+                "gender": "GENDER",
+                "role": "ROLE",
+                "phonenumber": "NUMBER",
+                "email": "EMAIL",
+                "img": "IMG",
+                "id": "ID"
+            },
+            {
+                "name": "NAME",
+                "age": 0,
+                "gender": "GENDER",
+                "role": "ROLE",
+                "phonenumber": "NUMBER",
+                "email": "EMAIL",
+                "img": "IMG",
+                "id": "ID"
+            },
+            {
+                "name": "NAME",
+                "age": 0,
+                "gender": "GENDER",
+                "role": "ROLE",
+                "phonenumber": "NUMBER",
+                "email": "EMAIL",
+                "img": "IMG",
+                "id": "ID"
+            },
+            {
+                "name": "NAME",
+                "age": 0,
+                "gender": "GENDER",
+                "role": "ROLE",
+                "phonenumber": "NUMBER",
+                "email": "EMAIL",
+                "img": "IMG",
+                "id": "ID"
+            },
+            {
+                "name": "NAME",
+                "age": 0,
+                "gender": "GENDER",
+                "role": "ROLE",
+                "phonenumber": "NUMBER",
+                "email": "EMAIL",
+                "img": "IMG",
+                "id": "ID"
+            },
+            {
+                "name": "NAME",
+                "age": 0,
+                "gender": "GENDER",
+                "role": "ROLE",
+                "phonenumber": "NUMBER",
+                "email": "EMAIL",
+                "img": "IMG",
+                "id": "ID"
+            },
+            {
+                "name": "NAME",
+                "age": 0,
+                "gender": "GENDER",
+                "role": "ROLE",
+                "phonenumber": "NUMBER",
+                "email": "EMAIL",
+                "img": "IMG",
+                "id": "ID"
+            },
+            {
+                "name": "NAME",
+                "age": 0,
+                "gender": "GENDER",
+                "role": "ROLE",
+                "phonenumber": "NUMBER",
+                "email": "EMAIL",
+                "img": "IMG",
+                "id": "ID"
+            }
+        ]
+
+    }
+]
