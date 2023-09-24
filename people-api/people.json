@@ -6,7 +6,7 @@
         "role": "Teamleader UI design",
         "phonenumber": "012-5662671",
         "email": "LaurenW@our-workplace.com",
-        "img": "https://github.com/Marije-db/APIs/blob/main/people-api/images/face1.png?raw=true",
+        "img": "https://marije-db.github.io/APIs/people-api/images/face1.png",
         "id": "1"
     },
     {
@@ -16,7 +16,7 @@
         "role": "Junior Dev Back-End",
         "phonenumber": "012-5662486",
         "email": "ChristianP@our-workplace.com",
-        "img": "https://github.com/Marije-db/APIs/blob/main/people-api/images/face2.png?raw=true",
+        "img": "https://marije-db.github.io/APIs/people-api/images/face2.png",
         "id": "2"
     },
     {
@@ -26,7 +26,7 @@
         "role": "Junior Dev Front-End",
         "phonenumber": "012-5668477",
         "email": "SophieW@our-workplace.com",
-        "img": "https://github.com/Marije-db/APIs/blob/main/people-api/images/face3.png?raw=true",
+        "img": "https://marije-db.github.io/APIs/people-api/images/face3.png",
         "id": "3"
     },
     {
@@ -36,7 +36,7 @@
         "role": "HR",
         "phonenumber": "012-5669882",
         "email": "AnikaS@our-workplace.com",
-        "img": "https://github.com/Marije-db/APIs/blob/main/people-api/images/face4.png?raw=true",
+        "img": "https://marije-db.github.io/APIs/people-api/images/face4.png",
         "id": "4"
     },
     {
@@ -46,7 +46,7 @@
         "role": "Junior Dev Back-end",
         "phonenumber": "012-5667217",
         "email": "StevenG@our-workplace.com",
-        "img": "https://github.com/Marije-db/APIs/blob/main/people-api/images/face5.png?raw=true",
+        "img": "https://marije-db.github.io/APIs/people-api/images/face5.png",
         "id": "5"
     },
     {
@@ -56,7 +56,7 @@
         "role": "Senior Dev Back-end / TeamLeader Back-End",
         "phonenumber": "012-5665445",
         "email": "MikeR@our-workplace.com",
-        "img": "https://github.com/Marije-db/APIs/blob/main/people-api/images/face6.png?raw=true",
+        "img": "https://marije-db.github.io/APIs/people-api/images/face6.png",
         "id": "6"
     },
     {
@@ -66,7 +66,7 @@
         "role": "Marketing",
         "phonenumber": "012-5667979",
         "email": "AliciaF@our-workplace.com",
-        "img": "https://github.com/Marije-db/APIs/blob/main/people-api/images/face7.png?raw=true",
+        "img": "https://marije-db.github.io/APIs/people-api/images/face7.png",
         "id": "7"
     },
     {
@@ -76,7 +76,7 @@
         "role": "Junior Dev Front-End",
         "phonenumber": "012-5663266",
         "email": "StaceyD@our-workplace.com",
-        "img": "https://github.com/Marije-db/APIs/blob/main/people-api/images/face8.png?raw=true",
+        "img": "https://marije-db.github.io/APIs/people-api/images/face8.png",
         "id": "8"
     },
     {
@@ -86,7 +86,7 @@
         "role": "Junior Dev Front-End",
         "phonenumber": "012-5669488",
         "email": "DerekW@our-workplace.com",
-        "img": "https://github.com/Marije-db/APIs/blob/main/people-api/images/face9.png?raw=true",
+        "img": "https://marije-db.github.io/APIs/people-api/images/face9.png",
         "id": "9"
     },
     {
@@ -96,7 +96,7 @@
         "role": "Sales",
         "phonenumber": "012-5664772",
         "email": "SashaW@our-workplace.com",
-        "img": "https://github.com/Marije-db/APIs/blob/main/people-api/images/face10.png?raw=true",
+        "img": "https://marije-db.github.io/APIs/people-api/images/face10.png",
         "id": "10"
     },
     {
@@ -106,7 +106,7 @@
         "role": "Senior Dev Front-End",
         "phonenumber": "012-5666611",
         "email": "MattR@our-workplace.com",
-        "img": "https://github.com/Marije-db/APIs/blob/main/people-api/images/face11.png?raw=true",
+        "img": "https://marije-db.github.io/APIs/people-api/images/face11.png",
         "id": "11"
     },
     {
@@ -116,7 +116,7 @@
         "role": "Senior Dev Front-End / Teamleader Front-End",
         "phonenumber": "012-5666487",
         "email": "MarkB@our-workplace.com",
-        "img": "https://github.com/Marije-db/APIs/blob/main/people-api/images/face12.png?raw=true",
+        "img": "https://marije-db.github.io/APIs/people-api/images/face12.png",
         "id": "12"
     },
     {
@@ -126,7 +126,7 @@
         "role": "Managing Director",
         "phonenumber": "012-5661278",
         "email": "LillyM@our-workplace.com",
-        "img": "https://github.com/Marije-db/APIs/blob/main/people-api/images/face13.png?raw=true",
+        "img": "https://marije-db.github.io/APIs/people-api/images/face13.png",
         "id": "13"
     },
     {
@@ -136,7 +136,7 @@
         "role": "UI Design",
         "phonenumber": "012-5666922",
         "email": "RosaP@our-workplace.com",
-        "img": "https://github.com/Marije-db/APIs/blob/main/people-api/images/face14.png?raw=true",
+        "img": "https://marije-db.github.io/APIs/people-api/images/face14.png",
         "id": "14"
     },
     {
@@ -146,7 +146,7 @@
         "role": "Junior Dev Front-End",
         "phonenumber": "012-5665744",
         "email": "JasonRoss@our-workplace.com",
-        "img": "https://github.com/Marije-db/APIs/blob/main/people-api/images/face15.png?raw=true",
+        "img": "https://marije-db.github.io/APIs/people-api/images/face15.png",
         "id": "15"
     }
 ]
