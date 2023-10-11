@@ -1,157 +1,152 @@
 [
     {
-        "people" : [
-            {
-                "name": "Lauren West",
-                "age": 36,
-                "gender": "Female",
-                "role": "Teamleader UI design",
-                "phonenumber": "012-5662671",
-                "email": "LaurenW@our-workplace.com",
-                "img": "https://github.com/Marije-db/APIs/blob/main/images/face1.png",
-                "id": "1"
-            },
-            {
-                "name": "Christian Powell",
-                "age": 31,
-                "gender": "Male",
-                "role": "Junior Dev Back-End",
-                "phonenumber": "012-5662486",
-                "email": "ChristianP@our-workplace.com",
-                "img": "https://github.com/Marije-db/APIs/blob/main/images/face2.png",
-                "id": "2"
-            },
-            {
-                "name": "Sophie Wilsons",
-                "age": 33,
-                "gender": "Female",
-                "role": "Junior Dev Front-End",
-                "phonenumber": "012-5668477",
-                "email": "SophieW@our-workplace.com",
-                "img": "https://github.com/Marije-db/APIs/blob/main/images/face3.png",
-                "id": "3"
-            },
-            {
-                "name": "Anika Singh",
-                "age": 27,
-                "gender": "Female",
-                "role": "HR",
-                "phonenumber": "012-5669882",
-                "email": "AnikaS@our-workplace.com",
-                "img": "https://github.com/Marije-db/APIs/blob/main/images/face4.png",
-                "id": "4"
-            },
-            {
-                "name": "Steven Graham",
-                "age": 33,
-                "gender": "Male",
-                "role": "Junior Dev Back-end",
-                "phonenumber": "012-5667217",
-                "email": "StevenG@our-workplace.com",
-                "img": "https://github.com/Marije-db/APIs/blob/main/images/face5.png",
-                "id": "5"
-            },
-            {
-                "name": "Mike Reynolds",
-                "age": 41,
-                "gender": "Male",
-                "role": "Senior Dev Back-end / TeamLeader Back-End",
-                "phonenumber": "012-5665445",
-                "email": "MikeR@our-workplace.com",
-                "img": "https://github.com/Marije-db/APIs/blob/main/images/face6.png",
-                "id": "6"
-            },
-            {
-                "name": "Alicia Freeman",
-                "age": 29,
-                "gender": "Female",
-                "role": "Marketing",
-                "phonenumber": "012-5667979",
-                "email": "AliciaF@our-workplace.com",
-                "img": "https://github.com/Marije-db/APIs/blob/main/images/face7.png",
-                "id": "7"
-            },
-            {
-                "name": "Stacey Devons",
-                "age": 30,
-                "gender": "Female",
-                "role": "Junior Dev Front-End",
-                "phonenumber": "012-5663266",
-                "email": "StaceyD@our-workplace.com",
-                "img": "https://github.com/Marije-db/APIs/blob/main/images/face8.png",
-                "id": "8"
-            },
-            {
-                "name": "Derek Williams",
-                "age": 25,
-                "gender": "Female",
-                "role": "Junior Dev Front-End",
-                "phonenumber": "012-5669488",
-                "email": "DerekW@our-workplace.com",
-                "img": "https://github.com/Marije-db/APIs/blob/main/images/face9.png",
-                "id": "9"
-            },
-            {
-                "name": "Sasha Willows",
-                "age": 30,
-                "gender": "Female",
-                "role": "Sales",
-                "phonenumber": "012-5664772",
-                "email": "SashaW@our-workplace.com",
-                "img": "https://github.com/Marije-db/APIs/blob/main/images/face10.png",
-                "id": "10"
-            },
-            {
-                "name": "Matt Rivers",
-                "age": 37,
-                "gender": "Male",
-                "role": "Senior Dev Front-End",
-                "phonenumber": "012-5666611",
-                "email": "MattR@our-workplace.com",
-                "img": "https://github.com/Marije-db/APIs/blob/main/images/face11.png",
-                "id": "11"
-            },
-            {
-                "name": "Mark Brown",
-                "age": 35,
-                "gender": "Male",
-                "role": "Senior Dev Front-End / Teamleader Front-End",
-                "phonenumber": "012-5666487",
-                "email": "MarkB@our-workplace.com",
-                "img": "https://github.com/Marije-db/APIs/blob/main/images/face12.png",
-                "id": "12"
-            },
-            {
-                "name": "Lilly Miller",
-                "age": 36,
-                "gender": "Female",
-                "role": "Managing Director",
-                "phonenumber": "012-5661278",
-                "email": "LillyM@our-workplace.com",
-                "img": "https://github.com/Marije-db/APIs/blob/main/images/face13.png",
-                "id": "13"
-            },
-            {
-                "name": "Rosa Parks",
-                "age": 31,
-                "gender": "Female",
-                "role": "UI Design",
-                "phonenumber": "012-5666922",
-                "email": "RosaP@our-workplace.com",
-                "img": "https://github.com/Marije-db/APIs/blob/main/images/face14.png",
-                "id": "14"
-            },
-            {
-                "name": "Jason Ross",
-                "age": 32,
-                "gender": "Male",
-                "role": "Junior Dev Front-End",
-                "phonenumber": "012-5665744",
-                "email": "JasonRoss@our-workplace.com",
-                "img": "https://github.com/Marije-db/APIs/blob/main/images/face15.png",
-                "id": "15"
-            }
-        ]
-
+        "name": "Lauren West",
+        "age": 36,
+        "gender": "Female",
+        "role": "Teamleader UI design",
+        "phonenumber": "012-5662671",
+        "email": "LaurenW@our-workplace.com",
+        "img": "https://marije-db.github.io/APIs/people-api/images/face1.png",
+        "id": "1"
+    },
+    {
+        "name": "Christian Powell",
+        "age": 31,
+        "gender": "Male",
+        "role": "Junior Dev Back-End",
+        "phonenumber": "012-5662486",
+        "email": "ChristianP@our-workplace.com",
+        "img": "https://marije-db.github.io/APIs/people-api/images/face2.png",
+        "id": "2"
+    },
+    {
+        "name": "Sophie Wilsons",
+        "age": 33,
+        "gender": "Female",
+        "role": "Junior Dev Front-End",
+        "phonenumber": "012-5668477",
+        "email": "SophieW@our-workplace.com",
+        "img": "https://marije-db.github.io/APIs/people-api/images/face3.png",
+        "id": "3"
+    },
+    {
+        "name": "Anika Singh",
+        "age": 27,
+        "gender": "Female",
+        "role": "HR",
+        "phonenumber": "012-5669882",
+        "email": "AnikaS@our-workplace.com",
+        "img": "https://marije-db.github.io/APIs/people-api/images/face4.png",
+        "id": "4"
+    },
+    {
+        "name": "Steven Graham",
+        "age": 33,
+        "gender": "Male",
+        "role": "Junior Dev Back-end",
+        "phonenumber": "012-5667217",
+        "email": "StevenG@our-workplace.com",
+        "img": "https://marije-db.github.io/APIs/people-api/images/face5.png",
+        "id": "5"
+    },
+    {
+        "name": "Mike Reynolds",
+        "age": 41,
+        "gender": "Male",
+        "role": "Senior Dev Back-end / TeamLeader Back-End",
+        "phonenumber": "012-5665445",
+        "email": "MikeR@our-workplace.com",
+        "img": "https://marije-db.github.io/APIs/people-api/images/face6.png",
+        "id": "6"
+    },
+    {
+        "name": "Alicia Freeman",
+        "age": 29,
+        "gender": "Female",
+        "role": "Marketing",
+        "phonenumber": "012-5667979",
+        "email": "AliciaF@our-workplace.com",
+        "img": "https://marije-db.github.io/APIs/people-api/images/face7.png",
+        "id": "7"
+    },
+    {
+        "name": "Stacey Devons",
+        "age": 30,
+        "gender": "Female",
+        "role": "Junior Dev Front-End",
+        "phonenumber": "012-5663266",
+        "email": "StaceyD@our-workplace.com",
+        "img": "https://marije-db.github.io/APIs/people-api/images/face8.png",
+        "id": "8"
+    },
+    {
+        "name": "Derek Williams",
+        "age": 25,
+        "gender": "Female",
+        "role": "Junior Dev Front-End",
+        "phonenumber": "012-5669488",
+        "email": "DerekW@our-workplace.com",
+        "img": "https://marije-db.github.io/APIs/people-api/images/face9.png",
+        "id": "9"
+    },
+    {
+        "name": "Sasha Willows",
+        "age": 30,
+        "gender": "Female",
+        "role": "Sales",
+        "phonenumber": "012-5664772",
+        "email": "SashaW@our-workplace.com",
+        "img": "https://marije-db.github.io/APIs/people-api/images/face10.png",
+        "id": "10"
+    },
+    {
+        "name": "Matt Rivers",
+        "age": 37,
+        "gender": "Male",
+        "role": "Senior Dev Front-End",
+        "phonenumber": "012-5666611",
+        "email": "MattR@our-workplace.com",
+        "img": "https://marije-db.github.io/APIs/people-api/images/face11.png",
+        "id": "11"
+    },
+    {
+        "name": "Mark Brown",
+        "age": 35,
+        "gender": "Male",
+        "role": "Senior Dev Front-End / Teamleader Front-End",
+        "phonenumber": "012-5666487",
+        "email": "MarkB@our-workplace.com",
+        "img": "https://marije-db.github.io/APIs/people-api/images/face12.png",
+        "id": "12"
+    },
+    {
+        "name": "Lilly Miller",
+        "age": 36,
+        "gender": "Female",
+        "role": "Managing Director",
+        "phonenumber": "012-5661278",
+        "email": "LillyM@our-workplace.com",
+        "img": "https://marije-db.github.io/APIs/people-api/images/face13.png",
+        "id": "13"
+    },
+    {
+        "name": "Rosa Parks",
+        "age": 31,
+        "gender": "Female",
+        "role": "UI Design",
+        "phonenumber": "012-5666922",
+        "email": "RosaP@our-workplace.com",
+        "img": "https://marije-db.github.io/APIs/people-api/images/face14.png",
+        "id": "14"
+    },
+    {
+        "name": "Jason Ross",
+        "age": 32,
+        "gender": "Male",
+        "role": "Junior Dev Front-End",
+        "phonenumber": "012-5665744",
+        "email": "JasonRoss@our-workplace.com",
+        "img": "https://marije-db.github.io/APIs/people-api/images/face15.png",
+        "id": "15"
     }
 ]
